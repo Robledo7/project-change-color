@@ -22,3 +22,4 @@ const changeColorf43e3d = () => {
     document.getElementById("lorem").style.color = "#f43e3d";
 }
 document.getElementById("colorf43e3d").addEventListener("click", changeColorf43e3d);
+
